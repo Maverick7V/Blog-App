@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BlogApp</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">password</string>
+    <string name="bt_signup">Sign Up</string>
+    <string name="bt_signin">Sign In</string>
+    <string name="submit_text">Submit</string>
+    <string name="post_description">Post Description......</string>
+    <string name="post_title">Post Title......</string>
+    <string name="hint_First_Name">First Name</string>
+    <string name="hint_Last_Name">Last Name</string>
+    <string name="hint_Email">E-Mail</string>
+</resources>
